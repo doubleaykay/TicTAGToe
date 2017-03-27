@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CRTest
+comment1.params=arg
+comment1.target=void\ main(int)
+comment2.params=arg\ strat
+comment2.target=int[]\ testA(int,\ java.lang.String)
+comment3.params=arg\ strat
+comment3.target=int[]\ testB(int,\ java.lang.String)
+numComments=4

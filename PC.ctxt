@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PC
+comment1.params=
+comment1.target=void\ main()
+comment2.params=c
+comment2.target=void\ getSpot(char)
+comment3.params=
+comment3.target=void\ instruct()
+numComments=4

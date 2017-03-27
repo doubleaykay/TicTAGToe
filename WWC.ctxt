@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=WWC
+comment1.params=c\ board
+comment1.target=void\ move(char,\ Board)
+numComments=2
